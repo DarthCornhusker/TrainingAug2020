@@ -1,0 +1,15 @@
+span {
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.lastUpdatedDate {
+  color: #1f681c;
+  text-decoration: underline;
+}
+
+#site-title {
+  color: darkcyan;
+}
